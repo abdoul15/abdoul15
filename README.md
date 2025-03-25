@@ -35,5 +35,3 @@ Je suis **Abdoul-Karim Camara**, un **Data Engineer** passionné avec 3+ ans d�
 - 🌍 Langues : Français (courant), Anglais (C1)
 
 ---
-
-Merci d’être passé sur mon profil ! N’hésite pas à me contacter pour discuter de projets, data ou innovation 🚀
