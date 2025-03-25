@@ -1,6 +1,6 @@
 # 👋 Hello & Bienvenue !
 
-Je suis **Abdoul-Karim Camara**, un **Data Engineer** passionné avec 3+ ans d’expérience dans la construction de pipelines de données robustes et scalables, spécialisés dans les architectures cloud, on-premise, les solutions IoT et l’intégration de modèles ML/IA. Actif sur LinkedIn et GitHub pour partager mes projets, bonnes pratiques et découvertes tech.
+Je suis **Abdoul-Karim Camara**, un **Data Engineer** passionné avec 3+ ans d’expérience dans la construction de pipelines de données robustes et scalables, spécialisés dans les architectures cloud, analytiques, on-premise, les solutions IoT et l’intégration des modèles LLM (Gen AI). Actif sur LinkedIn et GitHub pour partager mes projets, bonnes pratiques et découvertes tech.
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-AbdoulKarimCamara-blue?logo=linkedin)](https://www.linkedin.com/in/abdoul-karim-camara-1640b6111/)
 [![Email](https://img.shields.io/badge/Email-akcamara14@gmail.com-red?logo=gmail)](mailto:akcamara14@gmail.com)
