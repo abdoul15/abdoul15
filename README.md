@@ -1,6 +1,5 @@
-# 👋 Hello & Bienvenue !
 
-Je suis **Abdoul-Karim Camara**, un **Data Engineer** passionné avec 3+ ans d’expérience dans la construction de pipelines de données robustes et scalables, spécialisés dans les architectures cloud, analytiques, on-premise, les solutions IoT et l’intégration des modèles LLM (Gen AI). Actif sur LinkedIn et GitHub pour partager mes projets, bonnes pratiques et découvertes tech.
+
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-AbdoulKarimCamara-blue?logo=linkedin)](https://www.linkedin.com/in/abdoul-karim-camara-1640b6111/)
 [![Email](https://img.shields.io/badge/Email-akcamara14@gmail.com-red?logo=gmail)](mailto:akcamara14@gmail.com)
@@ -10,28 +9,18 @@ Je suis **Abdoul-Karim Camara**, un **Data Engineer** passionné avec 3+ ans d�
 
 ## 🛠️ Compétences & Technologies
 
-**Langages** : Python, SQL, C#, Scala
+**Langages** : Python, SQL, C#, Scala, Java
 
 **Traitement & Orchestration**  
-- Apache Spark, Databricks, Apache Flink, Airflow, DBT
+- Apache Spark, Databricks, Apache Flink, Airflow, DBT, Snowflake
 
 **Stockage & Bases de données**  
 - Data Lake (S3, ADLS), Lakehouse (Delta, Iceberg),  
-  Data Warehouse (BigQuery, Synapse Analytics), Oracle
+  Data Warehouse (BigQuery, Synapse Analytics), Oracle, snowflake, Cube.js (semantic layer)
+  
+**Conteneurisation**: Docker, Kubernetes
 
 **Cloud** : AWS, Azure  
 **IaC** : Terraform  
 **Soft Skills** : Fast Learner, Communication, Agilité  
 
----
-
-
-## 🎓 Diplômes & Certifications
-
-- 🎓 Diplôme d’ingénieur – Big Data & IA – ESILV  
-- 🎓 Licence Informatique & Réseaux – ESME Sudria & UPEC
-- 🏅 **AWS Certified Data Engineer Associate - Hands On! (Udemy)**
-- 🏅 **Conceptualizing the Processing Model for Apache Flink** 
-- 🌍 Langues : Français (courant), Anglais (C1)
-
----
